@@ -1,4 +1,4 @@
-Documentação do projeto
+## Documentação do projeto
 
 ### Setup
 
@@ -8,4 +8,7 @@ Documentação do projeto
 4. Abrir o terminal do projeto e rodar o comando `npm start`
 5. Abrir o browser e abrir: `http://localhost:3000`
 
-## Ferramentas
+### Ferramentas
+
+- [Ferramenta para conversão de HTML para MD](https://products.aspose.app/html/conversion/html-to-md)
+- [Geração de logos](https://fontmeme.com)
