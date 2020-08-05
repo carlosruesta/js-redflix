@@ -1,4 +1,4 @@
-### Conteúdo detalhado dessa aula
+# Aula 01 - React Components e AluraFlix
 
 Usaremos o `Create React App` para iniciar nosso projeto e `styled-components` para cuidar da camada de estilo da nossa aplicação, essas duas ferramentas são essenciais do mundo React. Também entenderemos como React se tornou tão popular no mercado de tecnologia.
 
@@ -52,3 +52,4 @@ do Discord para compartilhar seus resultados e tirar suas dúvidas com a comunid
 * Marco Bruno no Twitch [twitch.tv/marcobrunodev](https://twitch.tv/marcobrunodev)
 * [DevSoutinho no Telegram](https://t.me/devsoutinho)
 * [Vídeos extras sobre estilização da Ju Negreiros](https://www.youtube.com/watch?v=nDxp3YEpR1E&list=PLbcp5RKTX5wNF34qxISyWY6kignmhBQRT)
+

@@ -1,4 +1,4 @@
-### Conteúdo detalhado dessa aula
+# Aula 02 - Roteamento e state
 
 - Entender o que é um SPA;
 - Utilizaremos a react-router-dom para controlar as rotas;
@@ -51,13 +51,3 @@ gravar o seu site em ação, scrollar e mostrar efeitos especiais. Ou até mesmo
 
 Poste no seu Instagram, Linkedin, Twitter ou Facebook e não esqueça de marcar #ImersaoReact e @aluraonline para que a gente deixe 
 um comentário e, quem sabe, você apareça nos extras das aulas!
-
-## Lives desta imersão!
-
-[Front-end do Netflix, iFood e Spotify (Live 24/7)](https://www.youtube.com/watch?v=Dcn-tVmSxyU)
-
-[TypeScript no nosso projeto com a Microsoft (Live 29/7)](https://www.youtube.com/watch?v=SpWFDTvgS9k)
-
-[Melhores projetos com React e premiação (Live 4/8)](https://www.youtube.com/watch?v=ol_2pmyPzvI)
-
-
